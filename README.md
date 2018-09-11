@@ -14,6 +14,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) on how to add your recommendations to t
 
 A curated list of resources around *Software Craftsmanship*, *Clean Code* and related programming practices. Comes with a list of [conferences](https://github.com/benas/awesome-software-craftsmanship#school-conferences) and [communities](https://github.com/benas/awesome-software-craftsmanship#school-communities).
 
+### 📖 [99 Bottles of OOP](https://www.goodreads.com/book/show/31183020-99-bottles-of-oop?ac=1&from_search=true) by Sandi Metz, Katrina Owen
+
+HERE BE SYNOPSIS
+
 ## 🏗️ Architecture, Design & Modelling
 
 ## 🚀 Software Development, Process & Delivery
