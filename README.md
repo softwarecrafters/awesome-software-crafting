@@ -18,6 +18,10 @@ A curated list of resources around *Software Craftsmanship*, *Clean Code* and re
 
 ## 🚀 Software Development, Process & Delivery
 
+### 📖 [Release it!](https://www.goodreads.com/book/show/1069827.Release_It_) by Michael T. Nygard
+
+HERE BE SYNOPSIS
+
 ## 🤗 Team Culture & Collaboration
 
 ## 🤔 Cognitive science, Systems theory
