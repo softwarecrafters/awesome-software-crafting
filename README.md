@@ -4,7 +4,7 @@ In the spirit of [awesome-software-craftsmanship](https://github.com/benas/aweso
 
 It's supposed to go beyond listing resources, but giving guidance about approaching a topic and what to expect from reading a book or listening to a talk.
 
-See [CONTRIBUTE.md](./CONTRIBUTE.md) on how to add your recommendations to this collection.
+See [CONTRIBUTING.md](./CONTRIBUTING.md) on how to add your recommendations to this collection.
 
 ----
 
