@@ -14,6 +14,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) on how to add your recommendations to t
 
 A curated list of resources around *Software Craftsmanship*, *Clean Code* and related programming practices. Comes with a list of [conferences](https://github.com/benas/awesome-software-craftsmanship#school-conferences) and [communities](https://github.com/benas/awesome-software-craftsmanship#school-communities).
 
+### 📖 [Refactoring](https://www.goodreads.com/book/show/44936.Refactoring) by Martin Fowler
+
+HERE BE SYNOPSIS
+
 ## 🏗️ Architecture, Design & Modelling
 
 ## 🚀 Software Development, Process & Delivery
