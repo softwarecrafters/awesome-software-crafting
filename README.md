@@ -14,6 +14,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) on how to add your recommendations to t
 
 A curated list of resources around *Software Craftsmanship*, *Clean Code* and related programming practices. Comes with a list of [conferences](https://github.com/benas/awesome-software-craftsmanship#school-conferences) and [communities](https://github.com/benas/awesome-software-craftsmanship#school-communities).
 
+### 🌐 [Kata-Log](http://kata-log.rocks/)
+
+A comprehensive list of katas (coding exercises), sorted by level, topic and constraints. Maintained by [@Egga](https://github.com/Egga). Source is [`Egga/kata-log`](https://github.com/Egga/kata-log)
+
 ## 🏗️ Architecture, Design & Modelling
 
 ## 🚀 Software Development, Process & Delivery
