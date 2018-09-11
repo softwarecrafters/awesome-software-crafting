@@ -18,6 +18,10 @@ A curated list of resources around *Software Craftsmanship*, *Clean Code* and re
 
 ## 🚀 Software Development, Process & Delivery
 
+### 📖 [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code?from_search=true) by Michael C. Feathers
+
+HERE BE SYNOPSIS
+
 ## 🤗 Team Culture & Collaboration
 
 ## 🤔 Cognitive science, Systems theory
