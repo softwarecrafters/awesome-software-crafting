@@ -34,6 +34,10 @@ Having already attended several coderetreats, reading this book was my ([@tdpauw
 
 Introduces legacy code as "code that isn't covered by tests". It explains different techniques and refactoring patterns to tackle legacy code by putting it under test. Very detailed (464 pages), but worth if you're working with legacy code a lot. The examples are in Java and C++
 
+### 📖 [Release it!](https://www.goodreads.com/book/show/1069827.Release_It_) by Michael T. Nygard
+
+HERE BE SYNOPSIS
+
 ## 🤗 Team Culture & Collaboration
 
 ## 🤔 Cognitive science, Systems theory
