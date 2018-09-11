@@ -124,6 +124,10 @@ From the findings, you understand how different aspects ranging from transformat
 
 The book also explains how this research has been performed and how you can apply the type of questionnairs that has been used for the research to measure how well your organisation is performing.
 
+### 📖 [Continuous Delivery](https://www.goodreads.com/book/show/8686650-continuous-delivery?from_search=true) by Jez Humble, David Farley
+
+HERE BE SYNOPSIS
+
 ## 🤗 Team Culture & Collaboration
 
 ## 🤔 Cognitive science, Systems theory
