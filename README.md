@@ -18,6 +18,10 @@ A curated list of resources around *Software Craftsmanship*, *Clean Code* and re
 
 ## 🚀 Software Development, Process & Delivery
 
+### 📖 [Accelerate](https://www.goodreads.com/book/show/35747076-accelerate) by  Nicole Forsgren, Jez Humble, Gene Kim
+
+HERE BE SYNOPSIS
+
 ## 🤗 Team Culture & Collaboration
 
 ## 🤔 Cognitive science, Systems theory
