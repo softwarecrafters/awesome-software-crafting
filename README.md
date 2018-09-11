@@ -10,6 +10,10 @@ See [CONTRIBUTE.md](./CONTRIBUTE.md) on how to add your recommendations to this 
 
 ## 💻 Coding & Practice ‍
 
+### 🌐 [Awesome Software Craftsmanship](https://github.com/benas/awesome-software-craftsmanship)
+
+A curated list of resources around *Software Craftsmanship*, *Clean Code* and related programming practices. Comes with a list of [conferences](https://github.com/benas/awesome-software-craftsmanship#school-conferences) and [communities](https://github.com/benas/awesome-software-craftsmanship#school-communities).
+
 ## 🏗️ Architecture, Design & Modelling
 
 ## 🚀 Software Development, Process & Delivery
