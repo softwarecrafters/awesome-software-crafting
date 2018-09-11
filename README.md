@@ -18,6 +18,10 @@ A curated list of resources around *Software Craftsmanship*, *Clean Code* and re
 
 ## 🚀 Software Development, Process & Delivery
 
+### 📖 [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project?from_search=true) by Gene Kim,  Kevin Behr, George Spafford & [The Goal](https://www.goodreads.com/book/show/113934.The_Goal?ac=1&from_search=true) by Eliyahu M. Goldratt,  Jeff Cox
+
+HERE BE SYNOPSIS
+
 ## 🤗 Team Culture & Collaboration
 
 ## 🤔 Cognitive science, Systems theory
