@@ -18,6 +18,10 @@ A curated list of resources around *Software Craftsmanship*, *Clean Code* and re
 
 ## 🚀 Software Development, Process & Delivery
 
+### 📖 [Continuous Delivery](https://www.goodreads.com/book/show/8686650-continuous-delivery?from_search=true) by Jez Humble, David Farley
+
+HERE BE SYNOPSIS
+
 ## 🤗 Team Culture & Collaboration
 
 ## 🤔 Cognitive science, Systems theory
