@@ -4,6 +4,16 @@ You are kindly invited to contribute to this collection by sending a Pull Reques
 
 Please add a summary/short overview to the resource you're recommending, explaining which topics it covers and further links to e.g. reviews or discussions.
 
+You are invited to use an icon as follows to indicate the type of resource:
+
+| Icon | Category |
+| --- | --- |
+| 📝 | Article / Blogpost |
+| 📖 | Book |
+| 🌐 | Website / Online Resource |
+| 🎥 | Talk / Presentation / Video |
+| 🎧 | Podcast |
+
 The categories given in the [`README.md`](./README.md) are a first suggestion. Feel free to add a new one or to rename them as you see fit.
 
 An example:
