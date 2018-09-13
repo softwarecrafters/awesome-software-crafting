@@ -31,3 +31,7 @@ HERE BE SYNOPSIS
 ## 🤗 Team Culture & Collaboration
 
 ## 🤔 Cognitive science, Systems theory
+
+### 📖 [Systems Thinking: A Primer by Donella H. Meadows, Diana Wright](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
+
+A fairly short book (240 pages) giving a great introduction to Systems Thinking, or how to model and understand complex systems. The book always uses practical examples, such as economical or biological systems, to illustrate certain system behaviours. Contains a lot of diagrams, so maybe get the physical book and not an ebook version. See [The Donella Meadows Project](http://donellameadows.org/systems-thinking-resources/) for more resources on systems thinking.
