@@ -24,6 +24,10 @@ A curated list of resources around *Software Craftsmanship*, *Clean Code* and re
 
 ## 🚀 Software Development, Process & Delivery
 
+### 📖 [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) by Michael C. Feathers
+
+Introduces legacy code as "code that isn't covered by tests". It explains different techniques and refactoring patterns to tackle legacy code by putting it under test. Very detailed (464 pages), but worth if you're working with legacy code a lot. The examples are in Java and C++
+
 ### 📖 [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project?from_search=true) by Gene Kim,  Kevin Behr, George Spafford & [The Goal](https://www.goodreads.com/book/show/113934.The_Goal?ac=1&from_search=true) by Eliyahu M. Goldratt,  Jeff Cox
 
 Two fables that introduce the reader to the general ideas of the [*Theory Of Constraints*](https://en.wikipedia.org/wiki/Theory_of_constraints) through the struggle the protagonists go through as they try to save a failing manufactoring plant resp. a failing IT project. While *The Goal* sets the story in a traditional manufacturing plant, *The Phoenix Project* tells the story of a struggling IT department and how they implement DevOps practices to fix it. 
