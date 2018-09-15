@@ -24,6 +24,10 @@ A curated list of resources around *Software Craftsmanship*, *Clean Code* and re
 
 ## 🚀 Software Development, Process & Delivery
 
+### 📖 [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) by Michael C. Feathers
+
+Introduces legacy code as "code that isn't covered by tests". It explains different techniques and refactoring patterns to tackle legacy code by putting it under test. Very detailed (464 pages), but worth if you're working with legacy code a lot. The examples are in Java and C++
+
 ## 🤗 Team Culture & Collaboration
 
 ## 🤔 Cognitive science, Systems theory
