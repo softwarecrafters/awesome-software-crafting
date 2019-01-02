@@ -34,6 +34,8 @@ A novel that introduce the reader to the general ideas of the [*Theory Of Constr
 
 The talk **[🎥 How To Break The Rules](https://www.youtube.com/watch?v=hZFShSjAhlQ) by Dan North** serves as a great introduction to the principles applied in the stories of both books and the work of Eliyahu Goldratt.
 
+The twitter moment [*Theory of Constraints #toc #tocot*](https://twitter.com/i/moments/1063540260179726336) introduces Theory of Constraints in 30-something tweets.
+
 ### 📖 [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project) by Gene Kim,  Kevin Behr, George Spafford
 
 **The Phoenix Project** is a similar novel as The Goal, but this time applied to a struggling IT department. It tells how the protagonists fix their department by implementing DevOps practices.
