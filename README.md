@@ -20,6 +20,12 @@ A curated list of resources around *Software Craftsmanship*, *Clean Code* and re
 
 ## 💻 Coding & Practice ‍
 
+### 📖 [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development) by Kent Beck
+
+In this fairly short book (240p), the reader gets a short theoretical introduction to the techniques and practices that form TDD. The reader then immediately follows Kent Beck in his journey of implementing two projects from start to finish using TDD: a money example in Java and the creation of unit testing framework in Python.
+
+Having already attended several coderetreats, reading this book was my ([@tdpauw](https://twitter.com/tdpauw)) biggest a-ha moment in understanding how TDD works and how to apply it.
+
 ## 🏗️ Architecture, Design & Modelling
 
 ## 🚀 Software Development, Process & Delivery
