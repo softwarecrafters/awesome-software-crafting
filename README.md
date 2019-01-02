@@ -38,12 +38,34 @@ The twitter moment [*Theory of Constraints #toc #tocot*](https://twitter.com/i/m
 
 ### 📖 [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project) by Gene Kim,  Kevin Behr, George Spafford
 
-**The Phoenix Project** is a similar novel as The Goal, but this time applied to a struggling IT department. It tells how the protagonists fix their department by implementing DevOps practices.
+**The Phoenix Project** is a similar novel as The Goal, but this time applied to a struggling IT department. It tells how the protagonists fix their department by implementing DevOps practices. 
+
+During the story, the reader is taken several times to a factory to explain the problems the IT department is facing in terms of physical manufacturing problems.
+
+The Phoenix Project puts less the emphasise on Theory of Constraints, but more on the 3 backing principles of DevOps: [*The Three Ways*](https://itrevolution.com/the-three-ways-principles-underpinning-devops/).
 
 About *The Phoenix Project*:
 > This is the IT swamp draining manual for anybody who is neck deep in alligators.
 >
 > -- Adrian Cockcroft, Cloud Architect at Netflix
+
+### 📖 [Rolling Rocks Downhill](https://www.goodreads.com/book/show/25460979-rolling-rocks-downhill) by Clarke Ching
+
+Yet another novel based on **The Goal**. This time a software project that has been running late since day 1 and that needs to launch on an impossible early date, or else.
+
+While **The Phoenix Project** mainly tells the story from an IT operations manager's point of view, **Rolling Rocks Downhill** tells the story from a software development manager's point of view.
+
+During the story, the reader is taken several times to the company's cafetaria that several years ago was threaten to close because of too less customers but managed to over achieve by implementing the concepts behind the Theory of Constraints.
+
+The reader is also introduced to the concept of the [*Evaporating Cloud*](https://wikipedia.org/wiki/Evaporating_Cloud), a conflict resolution diagram.
+
+There was a time the book could be read one chapter a day in 60 days by subscribing to a mailing at https://rolls.rocks. You would then receive one chapter every day in your mailbox. But it seems to be not available anymore. That was very funny as you got at the beginning and end of every chapter some funny comments from Clarke.
+
+> Please don't think of small batches, okay?
+>
+> Promise?
+>
+> -- Clarke Ching
 
 ## 🤗 Team Culture & Collaboration
 
