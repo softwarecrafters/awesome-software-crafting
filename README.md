@@ -30,7 +30,7 @@ Introduces legacy code as "code that isn't covered by tests". It explains differ
 
 ### 📖 [The Goal](https://www.goodreads.com/book/show/113934.The_Goal) by Eliyahu M. Goldratt,  Jeff Cox
 
-A novel that introduce the reader to the general ideas of the [*Theory Of Constraints*](https://en.wikipedia.org/wiki/Theory_of_constraints) and the [*Five Focusing Steps*](https://www.tocinstitute.org/five-focusing-steps.html) through the struggle the protagonists go through as they try to save a failing manufactoring plant.
+A novel that introduce the reader to the general ideas of the [*Theory Of Constraints (ToC)*](https://en.wikipedia.org/wiki/Theory_of_constraints) and the [*Five Focusing Steps*](https://www.tocinstitute.org/five-focusing-steps.html) through the struggle the protagonists go through as they try to save a failing manufactoring plant.
 
 The talk **[🎥 How To Break The Rules](https://www.youtube.com/watch?v=hZFShSjAhlQ) by Dan North** serves as a great introduction to the principles applied in the stories of both books and the work of Eliyahu Goldratt.
 
@@ -49,7 +49,7 @@ About *The Phoenix Project*:
 >
 > -- Adrian Cockcroft, Cloud Architect at Netflix
 
-### 📖 [Rolling Rocks Downhill](https://www.goodreads.com/book/show/25460979-rolling-rocks-downhill) by Clarke Ching
+### 📖 [Rolling Rocks Downhill: Accelerate Agile using Goldratt's TOC](https://www.goodreads.com/book/show/25460979-rolling-rocks-downhill) by Clarke Ching
 
 Yet another novel based on **The Goal**. This time a software project that has been running late since day 1 and that needs to launch on an impossible early date, or else.
 
@@ -66,6 +66,14 @@ There was a time the book could be read one chapter a day in 60 days by subscrib
 > Promise?
 >
 > -- Clarke Ching
+
+### 📖 [The Bottleneck Rules: How To Get More Done at Work, Without Working Harder](https://www.goodreads.com/book/show/40279575-the-bottleneck-rules) by Clarke Ching
+
+Very short book (something like 100p) one can read in a day. It is basically an introduction to bottlenecks, the key concept behind [*Theory Of Constraints (ToC)*](https://en.wikipedia.org/wiki/Theory_of_constraints). But as Clarke says in the beginning of this book: to grasp ToC, one has to go through a 3oo-something pages novel.
+
+Clarke explains what bottlenecks are in your day-to-day live and how to deal with it using examples from different domains (not only the classic manufacturing or IT, also for instance accounting). The reader gets introduced to the [*Five Focusing Steps*](https://www.tocinstitute.org/five-focusing-steps.html) in a more accessible way than the original version.
+
+If you want to read one book on ToC, I would suggest this one.
 
 ## 🤗 Team Culture & Collaboration
 
