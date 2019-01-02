@@ -38,7 +38,7 @@ The twitter moment [*Theory of Constraints #toc #tocot*](https://twitter.com/i/m
 
 ### 📖 [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project) by Gene Kim,  Kevin Behr, George Spafford
 
-**The Phoenix Project** is a similar novel as The Goal, but this time applied to a struggling IT department. It tells how the protagonists fix their department by implementing DevOps practices. 
+**The Phoenix Project** is a similar novel as The Goal, but this time applied to a struggling IT department. It tells how the protagonists fix their department by implementing DevOps practices.
 
 During the story, the reader is taken several times to a factory to explain the problems the IT department is facing in terms of physical manufacturing problems.
 
@@ -74,6 +74,12 @@ Very short book (something like 100p) one can read in a day. It is basically an 
 Clarke explains what bottlenecks are in your day-to-day live and how to deal with it using examples from different domains (not only the classic manufacturing or IT, also for instance accounting). The reader gets introduced to the [*Five Focusing Steps*](https://www.tocinstitute.org/five-focusing-steps.html) in a more accessible way than the original version.
 
 If you want to read one book on ToC, I would suggest this one.
+
+### 📖 (Measuring Continuous Delivery: The what, why, and how of measuring Continuous Delivery)[https://www.goodreads.com/book/show/35508935-measuring-continuous-delivery] by Steve Smith
+
+TODO: Add synopsis here
+
+Yet another book about [*Theory Of Constraints (ToC)*](https://en.wikipedia.org/wiki/Theory_of_constraints), this time applied to the technology value stream aka your Continuous Delivery pipeline.
 
 ## 🤗 Team Culture & Collaboration
 
