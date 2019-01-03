@@ -81,7 +81,7 @@ Clarke explains what bottlenecks are in your day-to-day live and how to deal wit
 
 If you want to read one book on ToC, I would suggest this one.
 
-### 📖 (Measuring Continuous Delivery: The what, why, and how of measuring Continuous Delivery)[https://www.goodreads.com/book/show/35508935-measuring-continuous-delivery] by Steve Smith
+### 📖 [Measuring Continuous Delivery: The what, why, and how of measuring Continuous Delivery](https://www.goodreads.com/book/show/35508935-measuring-continuous-delivery) by Steve Smith
 
 TODO: Add synopsis here
 
