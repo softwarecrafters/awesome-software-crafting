@@ -83,9 +83,13 @@ If you want to read one book on ToC, I would suggest this one.
 
 ### 📖 [Measuring Continuous Delivery: The what, why, and how of measuring Continuous Delivery](https://www.goodreads.com/book/show/35508935-measuring-continuous-delivery) by Steve Smith
 
-TODO: Add synopsis here
+Yet another book about [*Theory Of Constraints (ToC)*](https://en.wikipedia.org/wiki/Theory_of_constraints), this time applied to the technology value stream aka your Continuous Delivery pipeline, i.e. from code commit to deployed in production and released to users.
 
-Yet another book about [*Theory Of Constraints (ToC)*](https://en.wikipedia.org/wiki/Theory_of_constraints), this time applied to the technology value stream aka your Continuous Delivery pipeline.
+Continuous Delivery is a holistic approach to software delivery. Adopting Continuous Delivery involves a bunch of technological and organisational changes. It is not these technological and organisational changes that actually make adopting Continuous Delivery hard. It is the application of them to the unique circumstances and constraints of your organisation. Your organisation is a complex, adaptive system in which every individual has a limited amount of information and the cause and effect of any event can only be established in retrospect.
+
+So, where do you start? Which technological or organisational change are you going to adopt first?
+
+In this book, Steve explains how by using [*The Improvement Kata*](http://www-personal.umich.edu/~mrother/The_Improvement_Kata.html), measuring the pipeline using the 4 throughput and stability metrics from the [*State of DevOps Report*](https://puppet.com/resources/whitepaper/state-of-devops-report) and [*Theory Of Constraints (ToC)*](https://en.wikipedia.org/wiki/Theory_of_constraints) to you can identify your bottleneck and identify which experiments to run to eliminate that bottleneck.
 
 ## 🤗 Team Culture & Collaboration
 
