@@ -36,7 +36,7 @@ Introduces legacy code as "code that isn't covered by tests". It explains differ
 
 ### 📖 [The Goal](https://www.goodreads.com/book/show/113934.The_Goal) by Eliyahu M. Goldratt,  Jeff Cox
 
-A novel that introduce the reader to the general ideas of the [*Theory Of Constraints (ToC)*](https://en.wikipedia.org/wiki/Theory_of_constraints) and the [*Five Focusing Steps*](https://www.tocinstitute.org/five-focusing-steps.html) through the struggle the protagonists go through as they try to save a failing manufactoring plant.
+A novel that introduce the reader to the general ideas of the [*Theory Of Constraints (ToC)*](https://en.wikipedia.org/wiki/Theory_of_constraints) and the [*Five Focusing Steps*](https://www.tocinstitute.org/five-focusing-steps.html) through the struggle the protagonists go through as they try to save a failing manufactoring plant that is threatened to be closed because of bad efficiency and accounting figures.
 
 The talk **[🎥 How To Break The Rules](https://www.youtube.com/watch?v=hZFShSjAhlQ) by Dan North** serves as a great introduction to the principles applied in the stories of both books and the work of Eliyahu Goldratt.
 
@@ -48,7 +48,7 @@ The twitter moment [*Theory of Constraints #toc #tocot*](https://twitter.com/i/m
 
 During the story, the reader is taken several times to a factory to explain the problems the IT department is facing in terms of physical manufacturing problems.
 
-The Phoenix Project puts less the emphasise on Theory of Constraints, but more on the 3 backing principles of DevOps: [*The Three Ways*](https://itrevolution.com/the-three-ways-principles-underpinning-devops/).
+The Phoenix Project puts less the emphasise on Theory of Constraints, but more on the 3 backing principles of DevOps called [*The Three Ways*](https://itrevolution.com/the-three-ways-principles-underpinning-devops/).
 
 About *The Phoenix Project*:
 > This is the IT swamp draining manual for anybody who is neck deep in alligators.
@@ -66,6 +66,8 @@ During the story, the reader is taken several times to the company's cafetaria t
 The reader is also introduced to the concept of the [*Evaporating Cloud*](https://wikipedia.org/wiki/Evaporating_Cloud), a conflict resolution diagram.
 
 There was a time the book could be read one chapter a day in 60 days by subscribing to a mailing at https://rolls.rocks. You would then receive one chapter every day in your mailbox. But it seems to be not available anymore. That was very funny as you got at the beginning and end of every chapter some funny comments from Clarke.
+
+Starting from chapter 24, every chapter ended with this quote to make sure the opposite happens:
 
 > Please don't think of small batches, okay?
 >
