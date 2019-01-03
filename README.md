@@ -29,7 +29,6 @@ Having already attended several coderetreats, reading this book was my ([@tdpauw
 ## 🏗️ Architecture, Design & Modelling
 
 ## 🚀 Software Development, Process & Delivery
-
 ### 📖 [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) by Michael C. Feathers
 
 Introduces legacy code as "code that isn't covered by tests". It explains different techniques and refactoring patterns to tackle legacy code by putting it under test. Very detailed (464 pages), but worth if you're working with legacy code a lot. The examples are in Java and C++
@@ -41,6 +40,18 @@ This book is *the* reference on Continuous Delivery. It explains all the pattern
 It's a heavy book (lots of pages) as it explains every practice, every pattern that make Continuous Delivery in detail.
 
 From reading this book, you will understand that Continuous Delivery is more than just having a Jenkins.
+
+### 📖 [Release it!](https://www.goodreads.com/book/show/1069827.Release_It_) by Michael T. Nygard
+
+300 pages easy to read book explaining all the patterns to turn your application into an operatable application. This should be required reading for every software engineer.
+
+It touches things like circuit breaker, bulkhead, zero-downtime deployments, networking in datacenters (most machines have 2 or more NIC's, make sure your app connects to the right one), gracefull startup, gracefull shutdown and many more things.
+
+Every chapter starts with a real life disaster scenario coming from the experience Michael had working in operations.
+
+Most of what Netflix has done in his cloud transformation and what they released now as open source tools is based on this book.
+
+A second edition has been released in 2018.
 
 ### 📖 [The Goal](https://www.goodreads.com/book/show/113934.The_Goal) by Eliyahu M. Goldratt,  Jeff Cox
 
