@@ -75,9 +75,13 @@ There was a time the book could be read one chapter a day in 60 days by subscrib
 
 ### 📖 [The Bottleneck Rules: How To Get More Done at Work, Without Working Harder](https://www.goodreads.com/book/show/40279575-the-bottleneck-rules) by Clarke Ching
 
-Very short book (something like 100p) one can read in a day. It is basically an introduction to bottlenecks, the key concept behind [*Theory Of Constraints (ToC)*](https://en.wikipedia.org/wiki/Theory_of_constraints). But as Clarke says in the beginning of this book: to grasp ToC, one has to go through a 3oo-something pages novel.
+Very short book (108p) one can read in a day. It is basically an introduction to bottlenecks, the key concept behind [*Theory Of Constraints (ToC)*](https://en.wikipedia.org/wiki/Theory_of_constraints). 
 
-Clarke explains what bottlenecks are in your day-to-day live and how to deal with it using examples from different domains (not only the classic manufacturing or IT, also for instance accounting). The reader gets introduced to the [*Five Focusing Steps*](https://www.tocinstitute.org/five-focusing-steps.html) in a more accessible way than the original version.
+Although Clarke studied ToC for 2 decades and he is a big fan of Eliyahu Goldratt, he had to realise that **The Goal** is too advanced and too much focused on managers of big corporations trying to solve big problems that 99% of the people will never come across. It's a 300-something pages big book and you only get to bottlenecks around page 203.
+
+Clarke created this book to help everyday, ordinary people find and manage their bottleneck quickly no matter what industry they work in. The book contains examples from different domains.
+
+The book explains what bottlenecks are, how to find them and how to manage them. For the management Clarke introduces the FOCCCUS formula, which is just a reformulation of the [*Five Focusing Steps*](https://www.tocinstitute.org/five-focusing-steps.html) in a more concrete and more understandable way than the original version.
 
 If you want to read one book on ToC, I would suggest this one.
 
