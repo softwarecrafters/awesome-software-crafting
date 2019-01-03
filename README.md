@@ -35,7 +35,15 @@ Introduces legacy code as "code that isn't covered by tests". It explains differ
 
 ### 📖 [Release it!](https://www.goodreads.com/book/show/1069827.Release_It_) by Michael T. Nygard
 
-HERE BE SYNOPSIS
+300 pages easy to read book explaining all the patterns to turn your application into an operatable application. This should be required reading for every software engineer.
+
+It touches things like circuit breaker, bulkhead, zero-downtime deployments, networking in datacenters (most machines have 2 or more NIC's, make sure your app connects to the right one), gracefull startup, gracefull shutdown and many more things.
+
+Every chapter starts with a real life disaster scenario coming from the experience Michael had working in operations.
+
+Most of what Netflix has done in his cloud transformation and what they released now as open source tools is based on this book.
+
+A second edition has been released in 2018.
 
 ## 🤗 Team Culture & Collaboration
 
