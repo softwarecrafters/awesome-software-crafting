@@ -27,7 +27,7 @@ In this fairly short book (240p), the reader gets a short theoretical introducti
 Having already attended several coderetreats, reading this book was my ([@tdpauw](https://twitter.com/tdpauw)) biggest a-ha moment in understanding how TDD works and how to apply it.
 
 ## 🏗️ Architecture, Design & Modelling
-### 📖 [Design it! From Programmer to Software Architect](https://www.goodreads.com/book/show/31670678-design-it)
+### 📖 [Design it! From Programmer to Software Architect](https://www.goodreads.com/book/show/31670678-design-it) by Michael Keeling
 
 This book is an approach to apply design thinking to software architecture. It covers a lot of workshop formats, techniques and methods that will help you to not only do good architecture decisions, but to also to facilitate and guide decisions within a team.
 
