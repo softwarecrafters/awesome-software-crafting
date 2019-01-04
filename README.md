@@ -33,6 +33,14 @@ Having already attended several coderetreats, reading this book was my ([@tdpauw
 
 Introduces legacy code as "code that isn't covered by tests". It explains different techniques and refactoring patterns to tackle legacy code by putting it under test. Very detailed (464 pages), but worth if you're working with legacy code a lot. The examples are in Java and C++
 
+### 📖 [Continuous Delivery](https://www.goodreads.com/book/show/8686650-continuous-delivery) by Jez Humble, David Farley
+
+This book is *the* reference on Continuous Delivery. It explains all the patterns and technological and organisational changes that are required to achieve a state of Continuous Delivery, i.e. being able to satisfy business demand reliably in a sustainably acceptable amount of time having the right quality, reducing at the same time risks and team burn-out.
+
+It's a heavy book (lots of pages) as it explains every practice, every pattern that make Continuous Delivery in detail.
+
+From reading this book, you will understand that Continuous Delivery is more than just having a Jenkins.
+
 ### 📖 [Release it!](https://www.goodreads.com/book/show/1069827.Release_It_) by Michael T. Nygard
 
 300 pages easy to read book explaining all the patterns to turn your application into an operatable application. This should be required reading for every software engineer.
