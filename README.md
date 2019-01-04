@@ -96,7 +96,7 @@ Starting from chapter 24, every chapter ended with this quote to make sure the o
 
 ### 📖 [The Bottleneck Rules: How To Get More Done at Work, Without Working Harder](https://www.goodreads.com/book/show/40279575-the-bottleneck-rules) by Clarke Ching
 
-Very short book (108p) one can read in a day. It is basically an introduction to bottlenecks, the key concept behind [*Theory Of Constraints (ToC)*](https://en.wikipedia.org/wiki/Theory_of_constraints).
+Very short book (108p) one can read in a day. It is basically an introduction to bottlenecks, the key concept behind [*Theory Of Constraints (ToC)*](https://en.wikipedia.org/wiki/Theory_of_constraints). 
 
 Although Clarke studied ToC for 2 decades and he is a big fan of Eliyahu Goldratt, he had to realise that **The Goal** is too advanced and too much focused on managers of big corporations trying to solve big problems that 99% of the people will never come across. It's a 300-something pages big book and you only get to bottlenecks around page 203.
 
